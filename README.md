@@ -1,2 +1,2 @@
 # Lerning
-How Git or Github Works
+How Git or Github Works.
